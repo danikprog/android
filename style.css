@@ -32,9 +32,9 @@ body {
 #luckyJetIcon.flying,
 #luckyJetIcon.ending {
   border-radius: 2px; 
-  height: 300px;
-  width: 300px;
-  margin-top: -200px;
+  height: 400px;
+  width: 400px;
+  margin-top: -300px;
 }
 
 #endingText {
